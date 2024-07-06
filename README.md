@@ -20,6 +20,9 @@ https://retailer.repairable.community/
 
 Personal Projects:
 
+**Healthcare Dashboard**
+https://healthcare-dashboard-rohsal.vercel.app/
+
 **Crypto Market Analyzer**
 https://koinx-landing.vercel.app/
 
