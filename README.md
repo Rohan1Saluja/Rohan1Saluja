@@ -2,6 +2,9 @@
 
 Here are a few Production Projects that I have worked on as a Frontend Developer:
 
+**Recurrent Software**
+https://www.recurrentsoftware.com
+
 **Repairable Community**
 https://www.repairable.community/
 
