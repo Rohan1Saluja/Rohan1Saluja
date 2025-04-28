@@ -32,6 +32,8 @@ https://koinx-landing.vercel.app/
 **Chat Application**
 https://chat-web-app-eba78.web.app/
 
+-----------------------------------------------
+
 -> To know me better, feel free to check out my [Portfolio](https://folio-rohansaluja.vercel.app/)
 
 <!--
