@@ -23,6 +23,9 @@ https://retailer.repairable.community/
 
 Personal Projects:
 
+**Freya - AI Plugins Assistant**
+https://ai-chat-plugins.vercel.app/
+
 **Healthcare Dashboard**
 https://healthcare-dashboard-rohsal.vercel.app/
 
