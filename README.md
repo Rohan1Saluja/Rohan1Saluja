@@ -3,15 +3,19 @@
 Here are a few Production Projects that I have worked on:
 
 **Stylezen** (might be taken down due to business shutdown)
+
 https://link.stylezen.co
 
 **Recurrent Software**
+
 https://www.recurrentsoftware.com
 
 **Repairable Community**
+
 https://www.repairable.community/
 
 **M2K Packpro Industries**
+
 https://www.m2kpackpro.in
 
 
