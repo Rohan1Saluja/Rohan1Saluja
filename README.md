@@ -1,6 +1,9 @@
 ## Welcome to Rohan Saluja's Profile!👋
 
-Here are a few Production Projects that I have worked on as a Frontend Developer:
+Here are a few Production Projects that I have worked on:
+
+**Stylezen** (might be taken down due to business shutdown)
+https://link.stylezen.co
 
 **Recurrent Software**
 https://www.recurrentsoftware.com
@@ -8,14 +11,8 @@ https://www.recurrentsoftware.com
 **Repairable Community**
 https://www.repairable.community/
 
-**Repair Booking Flow**
-https://booking.repairable.no/
-
-**Seamster Dashboard**
-https://partner.repairable.community/
-
-**Store Dashboard**
-https://retailer.repairable.community/
+**M2K Packpro Industries**
+https://www.m2kpackpro.in
 
 
 -----------------------------------------------
@@ -26,14 +23,8 @@ Personal Projects:
 **Freya - AI Plugins Assistant**
 https://ai-chat-plugins.vercel.app/
 
-**Healthcare Dashboard**
-https://healthcare-dashboard-rohsal.vercel.app/
-
-**Crypto Market Analyzer**
-https://koinx-landing.vercel.app/
-
-**Chat Application**
-https://chat-web-app-eba78.web.app/
+**Calyrn - Crypto Market Analyzer**
+https://cma-rs.vercel.app/
 
 -----------------------------------------------
 
