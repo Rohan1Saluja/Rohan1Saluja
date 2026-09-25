@@ -9,7 +9,7 @@ https://link.stylezen.co
 https://www.recurrentsoftware.com
 
 **Repairable Community**
-https://www.repairable.community/
+https://www.repairable.community
 
 **M2K Packpro Industries**
 https://www.m2kpackpro.in
@@ -18,13 +18,9 @@ https://www.m2kpackpro.in
 -----------------------------------------------
 
 
-Personal Projects:
-
-**Freya - AI Plugins Assistant**
-https://ai-chat-plugins.vercel.app/
-
-**Calyrn - Crypto Market Analyzer**
-https://cma-rs.vercel.app/
+Personal Product:
+**Calyrn - Smart Researcher**
+https://calyrn.xyz
 
 -----------------------------------------------
 
