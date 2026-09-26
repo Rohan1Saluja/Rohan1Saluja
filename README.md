@@ -8,9 +8,6 @@ https://link.stylezen.co
 **Recurrent Software**
 https://www.recurrentsoftware.com
 
-**Repairable Community**
-https://www.repairable.community
-
 **M2K Packpro Industries**
 https://www.m2kpackpro.in
 
@@ -19,8 +16,10 @@ https://www.m2kpackpro.in
 
 
 Personal Product:
+
 **Calyrn - Smart Researcher**
 https://calyrn.xyz
+<img width="1086" height="362" alt="banner-wide" src="https://github.com/user-attachments/assets/d344ed2b-13f1-4a6b-a0d7-883ecd89efb8" />
 
 -----------------------------------------------
 
